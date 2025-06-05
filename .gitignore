@@ -30,3 +30,5 @@ md
 test
 target
 .env
+run.sh
+run.md
