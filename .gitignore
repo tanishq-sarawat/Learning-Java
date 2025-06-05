@@ -28,6 +28,5 @@ target
 md
 
 test
-
-resources.application.properties
+resources/application.properties
 
