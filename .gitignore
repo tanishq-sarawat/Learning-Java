@@ -29,5 +29,4 @@ md
 
 test
 target
-resources/application.properties
-
+.env
