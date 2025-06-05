@@ -29,5 +29,5 @@ md
 
 test
 target
-resources/application.properties
+/resources/application.properties
 

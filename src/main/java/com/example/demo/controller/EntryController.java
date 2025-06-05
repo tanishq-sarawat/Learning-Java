@@ -20,6 +20,7 @@ import java.util.*;
 
 
 @RestController
+@RequestMapping("/Entries")
 public class EntryController {
 
     @Autowired
