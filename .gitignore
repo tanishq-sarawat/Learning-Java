@@ -29,6 +29,11 @@ md
 
 test
 target
+
 .env
-run.sh
-run.md
+
+
+**/.env
+
+
+src/main/java/com/example/demo/.env
